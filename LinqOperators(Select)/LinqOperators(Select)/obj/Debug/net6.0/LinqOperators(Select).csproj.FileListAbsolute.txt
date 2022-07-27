@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\bin\Debug\net6.0\LinqOperators(Select).exe
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\bin\Debug\net6.0\LinqOperators(Select).deps.json
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\bin\Debug\net6.0\LinqOperators(Select).runtimeconfig.json
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\bin\Debug\net6.0\LinqOperators(Select).dll
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\bin\Debug\net6.0\ref\LinqOperators(Select).dll
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\bin\Debug\net6.0\LinqOperators(Select).pdb
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\obj\Debug\net6.0\LinqOperators(Select).csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\obj\Debug\net6.0\LinqOperators(Select).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\obj\Debug\net6.0\LinqOperators(Select).AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\obj\Debug\net6.0\LinqOperators(Select).AssemblyInfo.cs
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\obj\Debug\net6.0\LinqOperators(Select).csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\obj\Debug\net6.0\LinqOperators(Select).dll
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\obj\Debug\net6.0\ref\LinqOperators(Select).dll
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\obj\Debug\net6.0\LinqOperators(Select).pdb
+C:\Users\Student\source\repos\LinqOperators(Select)\LinqOperators(Select)\obj\Debug\net6.0\LinqOperators(Select).genruntimeconfig.cache

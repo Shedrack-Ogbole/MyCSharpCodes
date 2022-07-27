@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\bin\Debug\net6.0\linqSelectManyMethod.exe
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\bin\Debug\net6.0\linqSelectManyMethod.deps.json
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\bin\Debug\net6.0\linqSelectManyMethod.runtimeconfig.json
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\bin\Debug\net6.0\linqSelectManyMethod.dll
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\bin\Debug\net6.0\ref\linqSelectManyMethod.dll
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\bin\Debug\net6.0\linqSelectManyMethod.pdb
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\obj\Debug\net6.0\linqSelectManyMethod.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\obj\Debug\net6.0\linqSelectManyMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\obj\Debug\net6.0\linqSelectManyMethod.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\obj\Debug\net6.0\linqSelectManyMethod.AssemblyInfo.cs
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\obj\Debug\net6.0\linqSelectManyMethod.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\obj\Debug\net6.0\linqSelectManyMethod.dll
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\obj\Debug\net6.0\ref\linqSelectManyMethod.dll
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\obj\Debug\net6.0\linqSelectManyMethod.pdb
+C:\Users\Student\source\repos\linqSelectManyMethod\linqSelectManyMethod\obj\Debug\net6.0\linqSelectManyMethod.genruntimeconfig.cache
